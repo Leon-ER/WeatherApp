@@ -8,7 +8,7 @@ namespace WeatherApp
 {
     public partial class Form1 : Form
     {
-        string apiKey = "f573332d1801aa9e1ec0eb12318c230f";
+        string apiKey = "your api key";
 
         public Form1()
         {
